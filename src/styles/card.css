@@ -1,0 +1,26 @@
+.letter-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.letter {
+  max-width: 520px;
+  padding: 40px;
+  color: white;
+}
+
+.letter p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  color: #fceff4;
+}
+
+.signature {
+  text-align: right;
+  font-style: italic;
+  color: #ffd6e8;
+}

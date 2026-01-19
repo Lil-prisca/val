@@ -1,0 +1,15 @@
+.floating-hearts {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.heart {
+  position: absolute;
+  font-size: 1.4rem;
+  filter: blur(0.3px);
+  opacity: 0.85;
+  user-select: none;
+}
