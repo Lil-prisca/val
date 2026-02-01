@@ -9,9 +9,11 @@ const YesScreen = ({ onContinue }) => {
         initial={{ scale: 0.85, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
       >
-        <h1 className="title-3d">She said YES 💖</h1>
+        <h1 className="title-3d"> My Baby said YES 💖</h1>
 
-        <p className="yes-sub">And just like that… my heart is full.</p>
+        <p className="yes-sub">
+          And just like that… my heart is fulled with gladneess and joy 😊.
+        </p>
 
         <button className="continue" onClick={onContinue}>
           Continue 💌

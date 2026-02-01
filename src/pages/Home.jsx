@@ -23,7 +23,7 @@ const Home = () => {
         <h1 className="title-3d">
           {rejected
             ? "So you no love me abi? 😭"
-            : "Will you be my Valentine? 💖"}
+            : " Temi, would you like to be my Valentine? 💖"}
         </h1>
 
         {rejected && (
@@ -33,7 +33,7 @@ const Home = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.4 }}
           >
-            Try again 👀
+            Omo i don suffer o, But Try again 👀
           </motion.p>
         )}
 
