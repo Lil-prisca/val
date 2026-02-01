@@ -3,19 +3,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 24px;
+  padding: 14px;
 }
 
 .letter {
+  max-height: 95vh;
   max-width: 520px;
-  padding: 40px;
+  padding: 20px 10px;
   color: white;
 }
 
 .letter p {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  margin-bottom: 20px;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
   color: #fceff4;
 }
 
